@@ -15,7 +15,6 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Realizar uma consulta do CPF junto a Receita Federal através de uma API
 - [ ] Criar a module do projeto como uma API
 
 
