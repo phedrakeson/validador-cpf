@@ -19,9 +19,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Criar a module do projeto como uma API
 
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para Validador de CPF
 
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
