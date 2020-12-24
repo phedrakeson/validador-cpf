@@ -93,3 +93,12 @@ footer a {
   color: currentColor;
   background-color: #73c6fa;
 }
+
+@media only screen and (max-width: 970px) {
+  input {
+    width: 100%;
+  }
+  form {
+    padding: 60px 0 60px 0;
+  }
+}
