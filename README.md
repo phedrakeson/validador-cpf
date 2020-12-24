@@ -1,11 +1,11 @@
 # Validador de CPF
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/phedrakeson/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/phedrakeson/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/phedrakeson/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/phedrakeson/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/phedrakeson/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/phedrakeson/validador-cpf?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/phedrakeson/validador-cpf?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/phedrakeson/validador-cpf?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/phedrakeson/validador-cpf?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/phedrakeson/validador-cpf?style=for-the-badge)
 
 ![](https://i.gyazo.com/5c2ebb213a06327c4b6f88dcc1e3ba43.gif)
 
@@ -36,5 +36,3 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#)<br>
