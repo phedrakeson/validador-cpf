@@ -44,7 +44,7 @@ export default class ValidarCPF {
   adicionarErro() {
     const erroElement = document.createElement('span');
     erroElement.classList.add('erro-text');
-    erroElement.innerText = 'CPF inválido';
+    erroElement.innerText = 'CPF inválido, verifique se não digitou um número a mais'
     this.element.parentElement.insertBefore(erroElement, this.element.nextElementSibling);
   }
 

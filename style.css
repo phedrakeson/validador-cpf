@@ -2,37 +2,64 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  outline: none;
 }
 
 html {
   font-size: 62.5%;
   font-family: 'IBM Plex Mono', monospace;
   font-weight: bold;
+  color: #2e3131;
+}
+
+body {
+  background-color: #fff9de;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  background-color: #ffec8b;
+  width: 60vw;
+  height: 60vh;
+  text-align: center;
+  padding: 60px;
 }
 
 label {
   display: block;
   margin: 10px 0 5px 0;
+  font-size: 2.8rem;
 }
 
 input {
   padding: 5px;
   border: 2px solid black;
-  font-size: 1rem;
+  font-size: 2rem;
+  width: 40%;
+  height: 4rem;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+p {
+  padding: 10px;
 }
 
 input.erro {
-  border-color: red;
+  border-color: #cf000f;
 }
 
 input.valido {
-  border-color: green;
+  border-color: #00e640;
 }
 
 .erro-text {
   display: none;
-  font-size: 0.875rem;
-  color: red;
+  font-size: 1.25rem;
+  color: #cf000f;
+  padding: 5px;
 }
 
 .erro-text.ativar {
@@ -41,4 +68,10 @@ input.valido {
 
 input::placeholder {
   color: rgba(0, 0, 0, 0.2);
+}
+
+img {
+  width: 7rem;
+  height: 7rem;
+  margin: 1rem;
 }
